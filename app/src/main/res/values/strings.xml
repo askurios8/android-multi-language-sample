@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">다국어앱</string>
+    <string name="action_settings">설정</string>
+    <string name="hello">한국어</string>
+</resources>
